@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "579739380756",
+    "project_id": "doctorcrudweb",
+    "storage_bucket": "doctorcrudweb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579739380756:android:bddf597863980798254b01",
+        "android_client_info": {
+          "package_name": "com.example.doctor_crud_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5ZomQVIqJ88S9qmBwifRn-l6SIYoe_fE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
